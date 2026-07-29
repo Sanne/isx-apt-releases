@@ -1,14 +1,14 @@
 Package: incus-spawn
-Version: 0.2.15
+Version: 0.2.16
 Architecture: amd64
 Maintainer: Sanne Grinovero <sanne@commonhaus.dev>
-Depends: openssl
-Recommends: incus, btrfs-progs
-Filename: pool/incus-spawn_0.2.15_amd64.deb
-Size: 13188640
-MD5sum: e8bbb4d8422aba6bc41b67054c6e52c6
-SHA1: d5bcb305c41a650186fd3611c9e8e93e538af948
-SHA256: 8c737a720757d351c1468b3c7acd7deea25962e38ff4a1cea6c4d2ded27d4204
+Depends: openssl, openssh-client
+Recommends: incus, btrfs-progs, psmisc
+Filename: pool/incus-spawn_0.2.16_amd64.deb
+Size: 13300852
+MD5sum: adfef2096f52ee0e12946c41f5963dc7
+SHA1: ca9b9f6bbe6e348246b23d64a8bc5b909521623d
+SHA256: 6872de138e36f364dbeda56c8dd55b60a8f1ba7f117778f21c22944f0958ffb6
 Section: devel
 Priority: optional
 Homepage: https://github.com/Sanne/incus-spawn
