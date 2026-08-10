@@ -4,7 +4,7 @@ Architecture: arm64
 Maintainer: Sanne Grinovero <sanne@commonhaus.dev>
 Depends: openssl, openssh-client
 Recommends: incus, btrfs-progs, psmisc
-Filename: pool/incus-spawn_0.2.21_arm64.deb
+Filename: pool/stable/incus-spawn_0.2.21_arm64.deb
 Size: 13054106
 MD5sum: 839602720f4d61ab4e749d9584b98a2b
 SHA1: dcb861e49728899d6f0a95fc57ec7ea591b117a0
