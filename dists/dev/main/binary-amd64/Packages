@@ -1,0 +1,19 @@
+Package: incus-spawn
+Version: 0.2.21-dev.6
+Architecture: amd64
+Maintainer: Sanne Grinovero <sanne@commonhaus.dev>
+Depends: openssl, openssh-client
+Recommends: incus, btrfs-progs, psmisc
+Filename: pool/dev/incus-spawn_0.2.21-dev.6_amd64.deb
+Size: 39570782
+MD5sum: 1dc8262c2a1bd6fbfe47d44333ac656d
+SHA1: 4b3e04966de6fe931db65b34acd11dc2d95de5c4
+SHA256: a926f7854a77724f65313c99b80ef6e9ae160d7aa63f0d3b576a766b76daa32c
+Section: devel
+Priority: optional
+Homepage: https://github.com/Sanne/incus-spawn
+Description: CLI tool for managing isolated Incus development environments
+ incus-spawn (isx) creates isolated Linux development environments using
+ Incus system containers with copy-on-write branching, a MITM TLS proxy
+ for credential isolation, and an interactive TUI.
+
