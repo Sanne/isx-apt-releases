@@ -1,0 +1,5 @@
+Types: deb
+URIs: https://sanne.github.io/isx-apt-releases
+Suites: dev
+Components: main
+Signed-By: /usr/share/keyrings/incus-spawn.gpg
